@@ -1,4 +1,3 @@
-// lib/main.dart - PHIÊN BẢN HOÀN CHỈNH NHẤT 11/11/2025 - ĐÃ KHỚP TÊN ẢNH CỦA BẠN 100%
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:salomon_bottom_bar/salomon_bottom_bar.dart';
@@ -350,4 +349,5 @@ class SettingsPage extends StatelessWidget {
       ),
     );
   }
+
 }
